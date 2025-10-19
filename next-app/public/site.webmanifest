@@ -1,8 +1,0 @@
-{
-  "name": "ToanBlog",
-  "short_name": "ToanBlog",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0b0c0f",
-  "icons": [{ "src": "/favicon.svg", "sizes": "64x64", "type": "image/svg+xml" }]
-}
